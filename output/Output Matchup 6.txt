@@ -1,0 +1,299 @@
+
+(base) C:\Users\virgi>cd Documents\GitHub\Breakthrough
+
+(base) C:\Users\virgi\Documents\GitHub\Breakthrough>python my_breakthroughgame.py
+pygame 1.9.6
+Hello from the pygame community. https://www.pygame.org/contribute.html
+my_breakthroughgame.py:120: DeprecationWarning: time.clock has been deprecated in Python 3.3 and will be removed from Python 3.8: use time.perf_counter or time.process_time instead
+  start = time.clock()
+-26
+((1, 0), 2, 1)
+my_breakthroughgame.py:123: DeprecationWarning: time.clock has been deprecated in Python 3.3 and will be removed from Python 3.8: use time.perf_counter or time.process_time instead
+  self.total_time_1 += (time.clock() - start)
+Player 1 total steps =  1 Player 1 total nodes traversed =  13090
+ Player 1 nodes traversed per move =  13090.0 Player 1 time per step =  0.22318048300000015
+ Player 1 has eaten =  0
+my_breakthroughgame.py:132: DeprecationWarning: time.clock has been deprecated in Python 3.3 and will be removed from Python 3.8: use time.perf_counter or time.process_time instead
+  start = time.clock()
+-2
+((6, 0), 2, 2)
+my_breakthroughgame.py:135: DeprecationWarning: time.clock has been deprecated in Python 3.3 and will be removed from Python 3.8: use time.perf_counter or time.process_time instead
+  self.total_time_2 += (time.clock() - start)
+Player 2 total steps =  1 Player 2 total nodes traversed =  14432
+ Player 2 nodes traversed per move =  14432.0 Player 2 time per step =  0.24517710900000012
+ Player 2 has eaten:  0
+-27
+((2, 0), 2, 1)
+Player 1 total steps =  2 Player 1 total nodes traversed =  28584
+ Player 1 nodes traversed per move =  14292.0 Player 1 time per step =  0.24167162100000006
+ Player 1 has eaten =  0
+-2
+((5, 0), 2, 2)
+Player 2 total steps =  2 Player 2 total nodes traversed =  30194
+ Player 2 nodes traversed per move =  15097.0 Player 2 time per step =  0.2586278990000004
+ Player 2 has eaten:  0
+-28
+((3, 0), 3, 1)
+Player 1 total steps =  3 Player 1 total nodes traversed =  47828
+ Player 1 nodes traversed per move =  15942.666666666666 Player 1 time per step =  0.27301868133333446
+ Player 1 has eaten =  0
+4
+((6, 3), 1, 2)
+Player 2 total steps =  3 Player 2 total nodes traversed =  56281
+ Player 2 nodes traversed per move =  18760.333333333332 Player 2 time per step =  0.32653208700000036
+ Player 2 has eaten:  0
+-29
+((4, 1), 3, 1)
+Player 1 total steps =  4 Player 1 total nodes traversed =  86331
+ Player 1 nodes traversed per move =  21582.75 Player 1 time per step =  0.35817307275000054
+ Player 1 has eaten =  0
+4
+((6, 1), 3, 2)
+Player 2 total steps =  4 Player 2 total nodes traversed =  99953
+ Player 2 nodes traversed per move =  24988.25 Player 2 time per step =  0.4407699335000004
+ Player 2 has eaten:  0
+-30
+((1, 1), 1, 1)
+Player 1 total steps =  5 Player 1 total nodes traversed =  106086
+ Player 1 nodes traversed per move =  21217.2 Player 1 time per step =  0.34694447359999997
+ Player 1 has eaten =  1
+4
+((4, 0), 2, 2)
+Player 2 total steps =  5 Player 2 total nodes traversed =  118602
+ Player 2 nodes traversed per move =  23720.4 Player 2 time per step =  0.4230194876000006
+ Player 2 has eaten:  1
+-31
+((2, 0), 3, 1)
+Player 1 total steps =  6 Player 1 total nodes traversed =  125817
+ Player 1 nodes traversed per move =  20969.5 Player 1 time per step =  0.3445748461666665
+ Player 1 has eaten =  1
+4
+((5, 2), 1, 2)
+Player 2 total steps =  6 Player 2 total nodes traversed =  143138
+ Player 2 nodes traversed per move =  23856.333333333332 Player 2 time per step =  0.42298819883333394
+ Player 2 has eaten:  1
+-32
+((3, 1), 1, 1)
+Player 1 total steps =  7 Player 1 total nodes traversed =  147370
+ Player 1 nodes traversed per move =  21052.85714285714 Player 1 time per step =  0.3447846168571428
+ Player 1 has eaten =  1
+4
+((4, 1), 2, 2)
+Player 2 total steps =  7 Player 2 total nodes traversed =  167266
+ Player 2 nodes traversed per move =  23895.14285714286 Player 2 time per step =  0.4202783410000005
+ Player 2 has eaten:  1
+-33
+((1, 2), 2, 1)
+Player 1 total steps =  8 Player 1 total nodes traversed =  177267
+ Player 1 nodes traversed per move =  22158.375 Player 1 time per step =  0.3589552227499997
+ Player 1 has eaten =  1
+-2
+((3, 1), 3, 2)
+Player 2 total steps =  8 Player 2 total nodes traversed =  200742
+ Player 2 nodes traversed per move =  25092.75 Player 2 time per step =  0.44067955137500014
+ Player 2 has eaten:  1
+-25
+((1, 3), 1, 1)
+Player 1 total steps =  9 Player 1 total nodes traversed =  225413
+ Player 1 nodes traversed per move =  25045.88888888889 Player 1 time per step =  0.40721027711111113
+ Player 1 has eaten =  1
+-2
+((6, 2), 2, 2)
+Player 2 total steps =  9 Player 2 total nodes traversed =  226692
+ Player 2 nodes traversed per move =  25188.0 Player 2 time per step =  0.43319177533333353
+ Player 2 has eaten:  2
+-26
+((2, 2), 1, 1)
+Player 1 total steps =  10 Player 1 total nodes traversed =  252977
+ Player 1 nodes traversed per move =  25297.7 Player 1 time per step =  0.4102568813999998
+ Player 1 has eaten =  2
+-2
+((5, 2), 1, 2)
+Player 2 total steps =  10 Player 2 total nodes traversed =  253504
+ Player 2 nodes traversed per move =  25350.4 Player 2 time per step =  0.43277790930000004
+ Player 2 has eaten:  2
+-27
+((3, 1), 3, 1)
+Player 1 total steps =  11 Player 1 total nodes traversed =  275712
+ Player 1 nodes traversed per move =  25064.727272727272 Player 1 time per step =  0.4042252869090907
+ Player 1 has eaten =  2
+-2
+((4, 1), 2, 2)
+Player 2 total steps =  11 Player 2 total nodes traversed =  281863
+ Player 2 nodes traversed per move =  25623.909090909092 Player 2 time per step =  0.43248718163636374
+ Player 2 has eaten:  2
+-28
+((1, 4), 1, 1)
+Player 1 total steps =  12 Player 1 total nodes traversed =  309572
+ Player 1 nodes traversed per move =  25797.666666666668 Player 1 time per step =  0.4103220475833333
+ Player 1 has eaten =  2
+-2
+((6, 4), 2, 2)
+Player 2 total steps =  12 Player 2 total nodes traversed =  322366
+ Player 2 nodes traversed per move =  26863.833333333332 Player 2 time per step =  0.44430144841666674
+ Player 2 has eaten:  2
+-29
+((2, 3), 1, 1)
+Player 1 total steps =  13 Player 1 total nodes traversed =  351234
+ Player 1 nodes traversed per move =  27018.0 Player 1 time per step =  0.4240129846923078
+ Player 1 has eaten =  2
+-2
+((5, 4), 2, 2)
+Player 2 total steps =  13 Player 2 total nodes traversed =  364300
+ Player 2 nodes traversed per move =  28023.076923076922 Player 2 time per step =  0.46084376192307686
+ Player 2 has eaten:  2
+-30
+((3, 2), 1, 1)
+Player 1 total steps =  14 Player 1 total nodes traversed =  394733
+ Player 1 nodes traversed per move =  28195.214285714286 Player 1 time per step =  0.43640465171428594
+ Player 1 has eaten =  2
+-2
+((4, 4), 1, 2)
+Player 2 total steps =  14 Player 2 total nodes traversed =  409033
+ Player 2 nodes traversed per move =  29216.64285714286 Player 2 time per step =  0.4734948137857144
+ Player 2 has eaten:  2
+-31
+((1, 5), 2, 1)
+Player 1 total steps =  15 Player 1 total nodes traversed =  447312
+ Player 1 nodes traversed per move =  29820.8 Player 1 time per step =  0.45604389540000034
+ Player 1 has eaten =  2
+-2
+((6, 5), 1, 2)
+Player 2 total steps =  15 Player 2 total nodes traversed =  465740
+ Player 2 nodes traversed per move =  31049.333333333332 Player 2 time per step =  0.494210483066667
+ Player 2 has eaten:  2
+-32
+((2, 5), 1, 1)
+Player 1 total steps =  16 Player 1 total nodes traversed =  510432
+ Player 1 nodes traversed per move =  31902.0 Player 1 time per step =  0.4823236162500002
+ Player 1 has eaten =  2
+-2
+((5, 4), 2, 2)
+Player 2 total steps =  16 Player 2 total nodes traversed =  538537
+ Player 2 nodes traversed per move =  33658.5625 Player 2 time per step =  0.5275754276250002
+ Player 2 has eaten:  2
+-33
+((3, 4), 1, 1)
+Player 1 total steps =  17 Player 1 total nodes traversed =  567240
+ Player 1 nodes traversed per move =  33367.05882352941 Player 1 time per step =  0.49969863994117686
+ Player 1 has eaten =  2
+-2
+((4, 4), 2, 2)
+Player 2 total steps =  17 Player 2 total nodes traversed =  603132
+ Player 2 nodes traversed per move =  35478.35294117647 Player 2 time per step =  0.5505687125294119
+ Player 2 has eaten:  2
+-34
+((1, 6), 2, 1)
+Player 1 total steps =  18 Player 1 total nodes traversed =  644230
+ Player 1 nodes traversed per move =  35790.555555555555 Player 1 time per step =  0.5310825908888892
+ Player 1 has eaten =  2
+-2
+((6, 6), 1, 2)
+Player 2 total steps =  18 Player 2 total nodes traversed =  685062
+ Player 2 nodes traversed per move =  38059.0 Player 2 time per step =  0.5834530053888888
+ Player 2 has eaten:  2
+-35
+((2, 6), 1, 1)
+Player 1 total steps =  19 Player 1 total nodes traversed =  734141
+ Player 1 nodes traversed per move =  38639.0 Player 1 time per step =  0.5664787789473685
+ Player 1 has eaten =  2
+-2
+((5, 5), 2, 2)
+Player 2 total steps =  19 Player 2 total nodes traversed =  791536
+ Player 2 nodes traversed per move =  41659.78947368421 Player 2 time per step =  0.6317189238947369
+ Player 2 has eaten:  2
+-36
+((3, 5), 1, 1)
+Player 1 total steps =  20 Player 1 total nodes traversed =  815231
+ Player 1 nodes traversed per move =  40761.55 Player 1 time per step =  0.5924594169500003
+ Player 1 has eaten =  2
+-2
+((4, 5), 2, 2)
+Player 2 total steps =  20 Player 2 total nodes traversed =  883519
+ Player 2 nodes traversed per move =  44175.95 Player 2 time per step =  0.6637251361500001
+ Player 2 has eaten:  2
+-37
+((1, 7), 2, 1)
+Player 1 total steps =  21 Player 1 total nodes traversed =  923209
+ Player 1 nodes traversed per move =  43962.333333333336 Player 1 time per step =  0.6350744423809526
+ Player 1 has eaten =  2
+-2
+((6, 7), 1, 2)
+Player 2 total steps =  21 Player 2 total nodes traversed =  997241
+ Player 2 nodes traversed per move =  47487.666666666664 Player 2 time per step =  0.702563640095238
+ Player 2 has eaten:  2
+-38
+((2, 7), 1, 1)
+Player 1 total steps =  22 Player 1 total nodes traversed =  1046432
+ Player 1 nodes traversed per move =  47565.09090909091 Player 1 time per step =  0.6838929166363639
+ Player 1 has eaten =  2
+-2
+((5, 6), 2, 2)
+Player 2 total steps =  22 Player 2 total nodes traversed =  1147487
+ Player 2 nodes traversed per move =  52158.5 Player 2 time per step =  0.7662287609090908
+ Player 2 has eaten:  2
+-39
+((3, 6), 1, 1)
+Player 1 total steps =  23 Player 1 total nodes traversed =  1158049
+ Player 1 nodes traversed per move =  50349.95652173913 Player 1 time per step =  0.7198565066521742
+ Player 1 has eaten =  2
+-2
+((4, 6), 2, 2)
+Player 2 total steps =  23 Player 2 total nodes traversed =  1273386
+ Player 2 nodes traversed per move =  55364.608695652176 Player 2 time per step =  0.8089022576086956
+ Player 2 has eaten:  2
+-40
+((0, 0), 2, 1)
+Player 1 total steps =  24 Player 1 total nodes traversed =  1297296
+ Player 1 nodes traversed per move =  54054.0 Player 1 time per step =  0.7688167791666669
+ Player 1 has eaten =  2
+-2
+((7, 0), 2, 2)
+Player 2 total steps =  24 Player 2 total nodes traversed =  1409724
+ Player 2 nodes traversed per move =  58738.5 Player 2 time per step =  0.85137286925
+ Player 2 has eaten:  2
+-41
+((0, 1), 2, 1)
+Player 1 total steps =  25 Player 1 total nodes traversed =  1433121
+ Player 1 nodes traversed per move =  57324.84 Player 1 time per step =  0.8123629619600002
+ Player 1 has eaten =  2
+-2
+((7, 1), 2, 2)
+Player 2 total steps =  25 Player 2 total nodes traversed =  1672582
+ Player 2 nodes traversed per move =  66903.28 Player 2 time per step =  0.9533452611200001
+ Player 2 has eaten:  2
+-42
+((4, 0), 3, 1)
+Player 1 total steps =  26 Player 1 total nodes traversed =  1725619
+ Player 1 nodes traversed per move =  66369.96153846153 Player 1 time per step =  0.927534970769231
+ Player 1 has eaten =  2
+4
+((6, 0), 3, 2)
+Player 2 total steps =  26 Player 2 total nodes traversed =  1910632
+ Player 2 nodes traversed per move =  73485.84615384616 Player 2 time per step =  1.0348301728076927
+ Player 2 has eaten:  2
+-43
+((4, 2), 1, 1)
+Player 1 total steps =  27 Player 1 total nodes traversed =  1891687
+ Player 1 nodes traversed per move =  70062.48148148147 Player 1 time per step =  0.9821897576666667
+ Player 1 has eaten =  2
+4
+((7, 2), 2, 2)
+Player 2 total steps =  27 Player 2 total nodes traversed =  2106015
+ Player 2 nodes traversed per move =  78000.55555555556 Player 2 time per step =  1.0891471431111117
+ Player 2 has eaten:  3
+-42
+((5, 1), 1, 1)
+Player 1 total steps =  28 Player 1 total nodes traversed =  1983544
+ Player 1 nodes traversed per move =  70840.85714285714 Player 1 time per step =  1.0010724962142858
+ Player 1 has eaten =  3
+4
+((6, 1), 2, 2)
+Player 2 total steps =  28 Player 2 total nodes traversed =  2313107
+ Player 2 nodes traversed per move =  82610.96428571429 Player 2 time per step =  1.1463069208928576
+ Player 2 has eaten:  3
+-inf
+((6, 0), 2, 1)
+Player 1 total steps =  29 Player 1 total nodes traversed =  1983545
+ Player 1 nodes traversed per move =  68398.10344827586 Player 1 time per step =  0.9665754124137929
+ Player 1 has eaten =  3
