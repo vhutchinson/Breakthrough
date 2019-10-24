@@ -2,6 +2,11 @@
 
 The goal of this assignment is to implement an agent to play a simple 2-player zero-sum game called Breakthrough.
 
+## Instructions
+
+Please run my_breakthroughgame.py to start the game.
+Tested on Python 3.7.3, using Anaconda for the installation of pygame.
+
 ## Breakdown
 
 This version of the strategy game will consider matchups between different agents depending on search type and heuristics function.
