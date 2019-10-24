@@ -28,5 +28,5 @@ The following functions were used:
 <br>Offensive Heuristic 1: def offensive_function(self, turn): 2*(30-self.enemyscore(turn))+random.random()/10
 <br>Defensive Heuristic 1: def defensive_function(self, turn): 2*self.myscore(turn)+random.random()/10
 <br>Offensive Heuristic 2: def offensive_function_2(self, turn): 1 * self.myscore(turn) - 2 * self.enemyscore(turn)
-<br>Defensive Heuristic 2: def defensive_function_2(self, turn): 2 * self.myscore(turn) - 1 * self.enemyscore(turn)
+<br>Defensive Heuristic 2: def defensive_function_2(self, turn): 2 * self.myscore(turn) - 2 * self.enemyscore(turn)
 
