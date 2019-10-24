@@ -263,4 +263,4 @@ class State:
 
     # Defensive Heuristic 2:
     def defensive_function_2(self, turn):
-        return 2 * self.myscore(turn) - 1 * self.enemyscore(turn)
+        return 2 * self.myscore(turn) - 2 * self.enemyscore(turn)
