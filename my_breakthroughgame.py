@@ -117,10 +117,10 @@ class BreakthroughGame:
 
             # Black piece
             if self.turn == 1:
-                start = time.clock()
+                start = time.process_time()
                 self.ai_move(player1search, player1heur)
                 #self.ai_move(2, 1)
-                self.total_time_1 += (time.clock() - start)
+                self.total_time_1 += (time.process_time() - start)
                 self.total_step_1 += 1
                 print('Player 1 total steps = ', self.total_step_1,
                         'Player 1 total nodes traversed = ', self.total_nodes_1, "\n",
@@ -129,10 +129,10 @@ class BreakthroughGame:
                         'Player 1 has eaten = ', self.eat_piece)
             # White piece
             elif self.turn == 2:
-                start = time.clock()
+                start = time.process_time()
                 self.ai_move(player2search, player2heur)
                 #self.ai_move(2, 2)
-                self.total_time_2 += (time.clock() - start)
+                self.total_time_2 += (time.process_time() - start)
                 self.total_step_2 += 1
                 print('Player 2 total steps = ', self.total_step_2,
                         'Player 2 total nodes traversed = ', self.total_nodes_2, "\n",
